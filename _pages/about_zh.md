@@ -5,7 +5,7 @@ permalink: /zh/
 subtitle: 华中科技大学本科研究者 · 北京大学博士生（拟于 2027 年入学）
 profile:
   align: right
-  image: gaoyang-mark.svg
+  image: gaoyang-profile.jpg
   image_circular: false
 selected_papers: false
 social: true

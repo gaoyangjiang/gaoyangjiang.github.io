@@ -5,7 +5,7 @@ permalink: /
 subtitle: Undergraduate Researcher at HUST · Incoming Doctoral Student at Peking University
 profile:
   align: right
-  image: gaoyang-mark.svg
+  image: gaoyang-profile.jpg
   image_circular: false
 selected_papers: true
 social: true

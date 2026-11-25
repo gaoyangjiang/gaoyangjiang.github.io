@@ -1,7 +1,18 @@
+.profile img {
+  width: 100% !important;
+  height: 198px !important;
+  object-fit: cover;
+  object-position: center top;
+}
+
 @media (max-width: 575px) {
   .profile.float-right {
     float: none !important;
     width: min(190px, 58vw) !important;
     margin: 0 auto 1.25rem !important;
+  }
+
+  .profile img {
+    height: 140px !important;
   }
 }
