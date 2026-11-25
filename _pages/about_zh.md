@@ -15,6 +15,8 @@ latest_posts:
   enabled: false
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/profile-mobile.css' | relative_url }}">
+
 <p style="text-align:right"><a href="{{ '/' | relative_url }}" lang="en">English</a></p>
 
 我是**姜高阳**，华中科技大学计算机科学与技术专业本科生，预计于 2027 年赴北京大学攻读电子信息博士学位。我的研究兴趣包括多模态模型评测、结构化推理和人工智能赋能科学研究。

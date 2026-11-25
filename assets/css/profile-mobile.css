@@ -1,0 +1,7 @@
+@media (max-width: 575px) {
+  .profile.float-right {
+    float: none !important;
+    width: min(190px, 58vw) !important;
+    margin: 0 auto 1.25rem !important;
+  }
+}
