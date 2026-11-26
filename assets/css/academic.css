@@ -30,6 +30,14 @@ footer a {
   color: inherit;
 }
 
+.post article > .clearfix > h3,
+.post article > .clearfix + h2 {
+  border-top: 1px solid var(--academic-border);
+  margin-bottom: 1.25rem;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+}
+
 .publications {
   margin-top: 1.5rem;
 }
@@ -129,6 +137,12 @@ footer a {
 }
 
 @media (max-width: 575px) {
+  .post article > .clearfix > h3,
+  .post article > .clearfix + h2 {
+    margin-top: 2.25rem;
+    padding-top: 1.125rem;
+  }
+
   .publications ol.bibliography > li .row {
     gap: 0.8rem;
     grid-template-columns: 88px minmax(0, 1fr);
