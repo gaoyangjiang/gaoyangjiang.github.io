@@ -17,8 +17,6 @@ latest_posts:
 
 <link rel="stylesheet" href="{{ '/assets/css/profile-mobile.css' | relative_url }}">
 
-<p style="text-align:right"><a href="{{ '/' | relative_url }}" lang="en">English</a></p>
-
 我是**姜高阳**，华中科技大学计算机科学与技术专业本科生，预计于 2027 年赴北京大学攻读电子信息博士学位。我的研究兴趣包括多模态模型评测、结构化推理和人工智能赋能科学研究。
 
 我的研究涉及视觉决策边界与多参考图像生成评测，也涉及单细胞基础模型和联邦学习。曾在华中科技大学 ONE Lab、中国人民大学高瓴人工智能学院及 AI 生物领域团队开展研究与开发。

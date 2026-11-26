@@ -7,8 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-<p style="text-align:right"><a href="{{ '/zh/cv/' | relative_url }}" lang="zh-CN">中文</a></p>
-
 ## Education
 
 - **Peking University** — Incoming doctoral student in Electronic Information, expected 2027.
