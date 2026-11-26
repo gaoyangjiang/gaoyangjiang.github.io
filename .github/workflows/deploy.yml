@@ -119,6 +119,8 @@ jobs:
         run: |
           for attempt in $(seq 1 12); do
             if gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}/artifacts" --jq '.artifacts[].name' | grep -qx 'github-pages'; then
+              # The Pages deployment API can lag behind the Actions artifact listing.
+              sleep 20
               exit 0
             fi
             sleep 5
