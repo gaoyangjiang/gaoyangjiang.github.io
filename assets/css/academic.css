@@ -85,6 +85,7 @@ footer a {
   padding: 0 !important;
   text-align: left;
   width: auto !important;
+  -webkit-text-fill-color: var(--global-theme-color) !important;
 }
 
 .publications .abbr figure {
