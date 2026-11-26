@@ -6,6 +6,8 @@ description: 姜高阳的简要学术履历。
 nav: false
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+
 ## 教育背景
 
 - **北京大学** — 电子信息专业，拟于 2027 年入学攻读博士学位。

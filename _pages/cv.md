@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+
 ## Education
 
 - **Peking University** — Incoming doctoral student in Electronic Information, expected 2027.
