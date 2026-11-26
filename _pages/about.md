@@ -7,7 +7,7 @@ profile:
   align: right
   image: gaoyang-profile.jpg
   image_circular: false
-selected_papers: true
+selected_papers: false
 social: false
 announcements:
   enabled: false
@@ -28,3 +28,7 @@ My research ranges from visual boundary and multi-reference image generation ben
 - **2025** — LaTCoder was published at KDD 2025 and MultiRef at ACM Multimedia 2025.
 
 For research conversations and collaboration, please email [u202315456@hust.edu.cn](mailto:u202315456@hust.edu.cn).
+
+<h2 class="homepage-publications"><a href="{{ '/publications/' | relative_url }}">Publications</a></h2>
+
+{% include selected_papers.liquid %}
