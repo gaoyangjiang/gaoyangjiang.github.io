@@ -9,11 +9,13 @@ nav: false
 <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
 
 ## 教育背景
+{: .cv-section-heading }
 
 - **北京大学** — 电子信息专业，拟于 2027 年入学攻读博士学位。
 - **华中科技大学** — 计算机科学与技术专业，本科，2023 年至今。
 
 ## 研究与工作经历
+{: .cv-section-heading }
 
 - **北京科学人工智能研究院**，2026 年 — 生物 Agent、RNA 设计工作流与工具集成。
 - **北京开睿生命科技有限公司**，2025–2026 年 — 虚拟细胞扰动模型评测。
@@ -21,6 +23,7 @@ nav: false
 - **华中科技大学 ONE Lab**，2024–2025 年 — 多模态评测、多参考图像生成与设计图转代码研究。
 
 ## 部分荣誉
+{: .cv-section-heading }
 
 - 挑战杯全国特等奖、全国一等奖
 - 开放原子大赛全国一等奖
@@ -28,5 +31,6 @@ nav: false
 - 国家励志奖学金
 
 ## 论文
+{: .cv-section-heading }
 
 [查看论文]({{ '/zh/publications/' | relative_url }})。如需完整简历，欢迎发送邮件至 [u202315456@hust.edu.cn](mailto:u202315456@hust.edu.cn)。

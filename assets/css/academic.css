@@ -31,7 +31,8 @@ footer a {
 }
 
 .post article > .clearfix > h3,
-.post article > .clearfix > h2.homepage-publications {
+.post article > .clearfix > h2.homepage-publications,
+.post article h2.cv-section-heading {
   border-top: 1px solid var(--academic-border);
   margin-bottom: 1.25rem;
   margin-top: 3rem;
@@ -142,7 +143,8 @@ footer a {
 
 @media (max-width: 575px) {
   .post article > .clearfix > h3,
-  .post article > .clearfix > h2.homepage-publications {
+  .post article > .clearfix > h2.homepage-publications,
+  .post article h2.cv-section-heading {
     margin-top: 2.25rem;
     padding-top: 1.125rem;
   }
