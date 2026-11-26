@@ -23,7 +23,7 @@ nav_order: 3
 - **Gaoling School of Artificial Intelligence, Renmin University of China**, 2025–2026 — Single-cell foundation models and federated learning.
 - **ONE Lab, HUST**, 2024–2025 — Multimodal benchmarks, image generation evaluation, and design-to-code research.
 
-## Selected honors
+## Honors
 {: .cv-section-heading }
 
 - Challenge Cup — National Special Prize and National First Prize
