@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}?v=cv-spacing-2">
 
 ## Education
 {: .cv-section-heading }

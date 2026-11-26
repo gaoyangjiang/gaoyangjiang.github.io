@@ -6,7 +6,7 @@ description: 姜高阳的简要学术履历。
 nav: false
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}?v=cv-spacing-2">
 
 ## 教育背景
 {: .cv-section-heading }
